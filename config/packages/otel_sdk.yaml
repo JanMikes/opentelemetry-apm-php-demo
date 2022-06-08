@@ -1,7 +1,7 @@
 otel_sdk:
     resource:
         attributes:
-            service.name: "OtelBundle Demo app"
+            service.name: "Demo app"
 
     trace:
         sampler: always_on
