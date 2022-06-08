@@ -24,7 +24,7 @@ class HelloController extends AbstractController
      }
 
      /**
-     * @Route("/hello", name="hello")
+     * @Route("/", name="hello")
      */
     public function index(): Response
     {
